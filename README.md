@@ -7,10 +7,10 @@
 </h3>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/dynamic/json?labelColor=black&color=grey&label=&suffix=%20downloads&query=downloads&url=https://api.modrinth.com/v2/project/varianted-vanilla&style=flat&logo=modrinth" alt="Downloads">
+  <img src="https://img.shields.io/badge/dynamic/json?labelColor=black&color=17c25e&label=&suffix=%20downloads&query=downloads&url=https://api.modrinth.com/v2/project/varianted-vanilla&style=flat&logo=modrinth" alt="Downloads">
   &nbsp;
   <a href="modrinth://mod/varianted-vanilla">
-    <img src="https://img.shields.io/badge/Download-Modrinth-00AF5C?style=flat&logo=modrinth&logoColor=white" alt="Download">
+    <img src="https://img.shields.io/badge/dynamic/json?labelColor=black&color=17c25e&label=Download&query=title&url=https://api.modrinth.com/v2/project/varianted-vanilla&style=flat&logo=modrinth" alt="Download">
   </a>
 </p>
 
