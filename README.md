@@ -35,7 +35,7 @@
 <br>
 
 <p align="center">
-  <strong>⚠ This pack is currently in active development and will continue receiving improvements, refinements, and additional mob variants. ⚠</strong>
+  <strong>⚠︎ This pack is currently in active development and will continue receiving improvements, refinements, and additional mob variants. ⚠︎</strong>
 </p>
 
 ---
